@@ -58,15 +58,15 @@
         </a>
 <hr>
 <div style = "width:100%">
-<img alt="Foto Lucas" src="https://avatars.githubusercontent.com/u/125739142?v=4" width = 200 align="left">
+<img alt="Foto Luccas" src="https://avatars.githubusercontent.com/u/125739142?v=4" width = 200 align="left">
 </div>
-    <h4>Lucas Bueno</h4>
+    <h4>Luccas Bueno</h4>
   <p><i>
         - Estudante na Universidade SPTECH, faculdade de tecnologia de São Paulo.<br>
         - Um dos COs da organização <b>Paragon.</b><br>
         - Total comprometimento dentro da nossa organização.<br>
         - Atualmente está realizando o projeto <b>MonitorHardware</b>.<br>
-        - Lucas atua em todas as áreas da organização.</i><br></p>
+        - Luccas atua em todas as áreas da organização.</i><br></p>
         <a href= "url.com">
         <img alt="Rede Social" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" align="center" width="50" height="50">
        </a>
