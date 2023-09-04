@@ -1,4 +1,5 @@
-##LOGO
+![logo](https://github.com/PARAG0NTECH/.github/assets/125837411/0a3111bc-34fe-4faa-8004-6cf21f4f14e2)
+
 
 <h2>Quem Somos</h2>
     
